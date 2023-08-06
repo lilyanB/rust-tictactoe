@@ -1,5 +1,7 @@
 # rust tic-tac-toe
 
+![grid](./grid.png)
+
 This is a simple implementation of the TicTacToe game in Rust. The game is played on the command line interface (CLI) and uses colors to enhance the user experience.
 
 ## How to Play
